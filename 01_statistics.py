@@ -30,7 +30,7 @@ print("total home points scored", home_points)
 # Question: How many points have been scored by away teams? 
 # The code for figuring this out will look very similar to the code 
 # for finding the total home points
-
+away_points = 0
 
 
 
